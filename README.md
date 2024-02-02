@@ -6,4 +6,6 @@ Bald project / Deep learning part
 
 1. Download ipynb files
 
-2. Conduct code sequential enforcement and deep learning
+2. Check requirement.txt and execute pip install
+   
+4. Conduct code sequential enforcement and deep learning
